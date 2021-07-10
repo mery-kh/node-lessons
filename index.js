@@ -1,1 +1,1 @@
-alert('alert for 1')
+alert('alert for 2')

@@ -1,1 +1,1 @@
-alert('alert for master')
+alert('alert for 1')
